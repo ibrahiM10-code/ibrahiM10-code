@@ -1,5 +1,8 @@
 ## 💫 About Me:
-Hi! I'm Ibrahim a recently graduated Software Engineer attracted to the multiple areas of<br>specialization that this field has such as full stack & mobile development, agentic AI,<br>cybersecurity, database management, cloud tech and MLOps.<br>At this moment I'm learning more and more about AI Agents using LangChain and <br>LangGraph, while at the same time building small but useful personal projects.<br>My tools for development usually are: Python, Javascript, React, Render, Vercel and Notion,<br>although I can handle myself in many more.<br>You can reach by my email or LinkedIn account both can be found in my profile's bio.<br><br>
+Hi! I'm Ibrahim a recently graduated Software Engineer attracted to the multiple areas of<br>specialization that this field has such as full stack & mobile development, agentic AI, cybersecurity, database management, cloud tech and MLOps.
+At this moment I'm learning more and more about AI Agents using LangChain and LangGraph, while at the same time building small but useful personal projects.
+My tools for development usually are: Python, Javascript, React, Render, Vercel and Notion, although I can handle myself in many more others.
+You can reach by via email or LinkedIn, both can be found in my profile's bio.
 
 
 ## 💻 Tech Stack:
